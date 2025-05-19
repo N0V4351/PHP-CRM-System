@@ -131,7 +131,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Author
 
-Your Name
+Erfan Noyon
 - WhatsApp: +1 (720) 506-9966
 - Email: your.email@example.com
 
